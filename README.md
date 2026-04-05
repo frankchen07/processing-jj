@@ -1,5 +1,7 @@
 # script files for processing jiujitsu videos
 
+deprecated and reused in my openclaw's ability to run compression and youtube uploads
+
 `zscript-processing.sh`
 1. compress all files first, mv origs to trash
 2. use compressed file to generate no audio file
